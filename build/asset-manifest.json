@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4082f9b8.css",
-    "main.js": "/static/js/main.fb80ca68.js",
+    "main.js": "/static/js/main.464a52a9.js",
     "static/js/648.d835cedb.chunk.js": "/static/js/648.d835cedb.chunk.js",
     "static/js/227.8bdfd1c9.chunk.js": "/static/js/227.8bdfd1c9.chunk.js",
     "static/js/609.7efadd26.chunk.js": "/static/js/609.7efadd26.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/Solana_logo.png": "/static/media/Solana_logo.40621cec0c4c39fbba45.png",
     "index.html": "/index.html",
     "main.4082f9b8.css.map": "/static/css/main.4082f9b8.css.map",
-    "main.fb80ca68.js.map": "/static/js/main.fb80ca68.js.map",
+    "main.464a52a9.js.map": "/static/js/main.464a52a9.js.map",
     "648.d835cedb.chunk.js.map": "/static/js/648.d835cedb.chunk.js.map",
     "227.8bdfd1c9.chunk.js.map": "/static/js/227.8bdfd1c9.chunk.js.map",
     "258.a4731f95.chunk.js.map": "/static/js/258.a4731f95.chunk.js.map",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.4082f9b8.css",
-    "static/js/main.fb80ca68.js"
+    "static/js/main.464a52a9.js"
   ]
 }
